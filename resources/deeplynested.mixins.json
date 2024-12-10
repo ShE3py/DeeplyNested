@@ -1,5 +1,6 @@
 {
     "package": "fr.she3py.deeplynested.mixin",
     "mixins": ["CompoundTagMixin", "ListTagMixin"],
-    "required": true
+    "required": true,
+    "refmap": "deeplynested.mixins.refmap.json"
 }
