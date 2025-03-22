@@ -13,6 +13,6 @@ public class CompoundTagMixin {
 		allow = 1
 	)
 	private int maxComplexity(int value) {
-		return value + value / 2;
+		return value * 2;
 	}
 }
